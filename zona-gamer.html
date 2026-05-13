@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zona Gamer — Colombia 5.0</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="index.html" class="nav-logo">CO<span>5.0</span></a>
+    <ul class="nav-links">
+      <li><a href="index.html"          data-i18n="nav-home">Inicio</a></li>
+      <li><a href="ciberseguridad.html" data-i18n="nav-ciber">Ciberseguridad</a></li>
+      <li><a href="zona-gamer.html"     class="active" data-i18n="nav-gamer">Zona Gamer</a></li>
+      <li><a href="game-ui.html"        data-i18n="nav-gameui">Game UI</a></li>
+      <li><button id="lang-btn">EN</button></li>
+    </ul>
+    <button class="hamburger" aria-label="Menú">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <!-- HERO -->
+  <header class="page-hero">
+    <a href="index.html" class="back-link" data-i18n="back">← Volver al inicio</a>
+    <p class="hero-eyebrow" data-i18n="conf-eyebrow">Experiencia · Colombia 5.0</p>
+    <h1 class="hero-title" data-i18n="conf-title">
+      Zona<br><em>Gamer</em>
+    </h1>
+    <p class="hero-sub" data-i18n="conf-sub">
+      Compartiendo pasiones, juegos y momentos únicos junto a mis compañeros.
+    </p>
+  </header>
+
+  <!-- BODY -->
+  <section>
+    <p class="section-label" data-i18n="body-label">Mi experiencia</p>
+    <h2 class="section-title" data-i18n="body-title">Una experiencia única</h2>
+
+    <div class="highlight">
+      <p data-i18n="body-text">
+        Fue una experiencia bastante única; compartí pasiones y sentimientos tanto por los juegos como el fútbol, así como juegos como Valorant o Fortnite, contando con una experiencia agradable junto a mis compañeros, quienes me animaron bastante durante este evento.
+      </p>
+    </div>
+
+    <!-- KEYWORDS -->
+    <p class="section-label" data-i18n="keywords-label">Palabras clave</p>
+    <div class="tags">
+      <span class="tag">Gamer</span>
+      <span class="tag">Valorant</span>
+      <span class="tag">Fortnite</span>
+      <span class="tag">Esports</span>
+      <span class="tag">Gaming Culture</span>
+      <span class="tag">Community</span>
+      <span class="tag">Teamwork</span>
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- GALLERY -->
+  <section>
+    <p class="section-label" data-i18n="gallery-label">Galería</p>
+    <h2 class="section-title" data-i18n="gallery-title">Imágenes del evento</h2>
+    <div class="gallery">
+      <img src="img/imagen10.jpeg" alt="Zona Gamer Colombia 5.0" loading="lazy" />
+      <img src="img/imagen11.jpeg" alt="Zona Gamer Colombia 5.0" loading="lazy" />
+      <img src="img/imagen12.jpeg" alt="Zona Gamer Colombia 5.0" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <span class="footer-logo">CO5.0</span>
+    <p data-i18n="footer-copy">© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software</p>
+  </footer>
+
+  <script src="js/lang.js"></script>
+  <script>initLang('gamer');</script>
+</body>
+</html>

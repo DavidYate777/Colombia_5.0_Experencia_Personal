@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Game UI Systems — Colombia 5.0</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="index.html" class="nav-logo">CO<span>5.0</span></a>
+    <ul class="nav-links">
+      <li><a href="index.html"          data-i18n="nav-home">Inicio</a></li>
+      <li><a href="ciberseguridad.html" data-i18n="nav-ciber">Ciberseguridad</a></li>
+      <li><a href="zona-gamer.html"     data-i18n="nav-gamer">Zona Gamer</a></li>
+      <li><a href="game-ui.html"        class="active" data-i18n="nav-gameui">Game UI</a></li>
+      <li><button id="lang-btn">EN</button></li>
+    </ul>
+    <button class="hamburger" aria-label="Menú">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <!-- HERO -->
+  <header class="page-hero">
+    <a href="index.html" class="back-link" data-i18n="back">← Volver al inicio</a>
+    <p class="hero-eyebrow" data-i18n="conf-eyebrow">Conferencia 02 · Colombia 5.0</p>
+    <h1 class="hero-title" data-i18n="conf-title">
+      Game UI<br><em>Systems</em>
+    </h1>
+    <p class="hero-sub" data-i18n="conf-sub">
+      De pantallas bonitas a interfaces que funcionan.
+    </p>
+  </header>
+
+  <!-- META -->
+  <section>
+    <div class="conf-meta">
+      <div class="conf-meta-item">
+        <span class="label" data-i18n="meta-speaker-lbl">Conferencista</span>
+        <span class="value" data-i18n="meta-speaker-val">Andrés Felipe Pisso Tobar</span>
+      </div>
+      <div class="conf-meta-item">
+        <span class="label" data-i18n="meta-topic-lbl">Tema principal</span>
+        <span class="value" data-i18n="meta-topic-val">Diseño de interfaces para videojuegos</span>
+      </div>
+      <div class="conf-meta-item">
+        <span class="label" data-i18n="meta-tool-lbl">Herramienta</span>
+        <span class="value" data-i18n="meta-tool-val">Figma</span>
+      </div>
+      <div class="conf-meta-item">
+        <span class="label" data-i18n="meta-event-lbl">Evento</span>
+        <span class="value" data-i18n="meta-event-val">Colombia 5.0</span>
+      </div>
+    </div>
+
+    <!-- BODY TEXT -->
+    <p class="section-label" data-i18n="body-label">Mi experiencia</p>
+    <h2 class="section-title" data-i18n="body-title">La conferencia que más me llamó la atención</h2>
+
+    <div class="highlight">
+      <p data-i18n="body-text">
+        Fue la conferencia que más me llamó la atención. A través de la plataforma de Figma y el vasto conocimiento con el que contaba el líder Andrés Felipe Pisso Tobar, pude darme cuenta de lo que hay detrás de las experiencias de los videojuegos, mostrándonos una gama de posibilidades a través de la plantilla en la que él estaba trabajando, generando conocimiento y construcción de elementos a través de vectores. Increíble todo.
+      </p>
+    </div>
+
+    <!-- KEYWORDS -->
+    <p class="section-label" data-i18n="keywords-label">Palabras clave</p>
+    <div class="tags">
+      <span class="tag">UI Design</span>
+      <span class="tag">UX</span>
+      <span class="tag">Figma</span>
+      <span class="tag">Vector</span>
+      <span class="tag">Game Interface</span>
+      <span class="tag">HUD</span>
+      <span class="tag">Prototype</span>
+      <span class="tag">Component</span>
+      <span class="tag">Player Experience</span>
+      <span class="tag">Wireframe</span>
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- GALLERY -->
+  <section>
+    <p class="section-label" data-i18n="gallery-label">Galería</p>
+    <h2 class="section-title" data-i18n="gallery-title">Imágenes del evento</h2>
+    <div class="gallery">
+      <img src="img/imagen13.jpeg" alt="Game UI Colombia 5.0" loading="lazy" />
+      <img src="img/imagen14.jpeg" alt="Game UI Colombia 5.0" loading="lazy" />
+      <img src="img/imagen15.jpeg" alt="Game UI Colombia 5.0" loading="lazy" />
+      <img src="img/imagen16.jpeg" alt="Game UI Colombia 5.0" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <span class="footer-logo">CO5.0</span>
+    <p data-i18n="footer-copy">© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software</p>
+  </footer>
+
+  <script src="js/lang.js"></script>
+  <script>initLang('gameui');</script>
+</body>
+</html>

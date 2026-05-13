@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Colombia 5.0 — David Yate</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="index.html" class="nav-logo">CO<span>5.0</span></a>
+    <ul class="nav-links">
+      <li><a href="index.html"           class="active" data-i18n="nav-home">Inicio</a></li>
+      <li><a href="ciberseguridad.html"  data-i18n="nav-ciber">Ciberseguridad</a></li>
+      <li><a href="zona-gamer.html"      data-i18n="nav-gamer">Zona Gamer</a></li>
+      <li><a href="game-ui.html"         data-i18n="nav-gameui">Game UI</a></li>
+      <li><button id="lang-btn">EN</button></li>
+    </ul>
+    <button class="hamburger" aria-label="Menú">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <!-- HERO -->
+  <header class="page-hero">
+    <p class="hero-eyebrow" data-i18n="hero-eyebrow">Mi Experiencia · Colombia 5.0</p>
+    <h1 class="hero-title" data-i18n="hero-title">
+      Bienvenidos a mi<br><em>experiencia</em><br>en Colombia 5.0
+    </h1>
+    <p class="hero-sub" data-i18n="hero-sub">
+      Soy David Yate, estudiante de Análisis y Desarrollo de Software. Hoy les narraré mi experiencia personal en Colombia 5.0, el evento tecnológico más importante del país.
+    </p>
+  </header>
+
+  <!-- GALLERY HOME -->
+  <section>
+    <p class="section-label">Colombia 5.0</p>
+    <h2 class="section-title">El Evento</h2>
+    <div class="gallery">
+      <img src="img/imagen1.jpeg" alt="Colombia 5.0" loading="lazy" />
+      <img src="img/imagen2.jpeg" alt="Colombia 5.0" loading="lazy" />
+      <img src="img/imagen3.jpeg" alt="Colombia 5.0" loading="lazy" />
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- CARDS -->
+  <section>
+    <p class="section-label" data-i18n="cards-label">Secciones del sitio</p>
+    <h2 class="section-title" data-i18n="cards-title">¿Qué encontrarás aquí?</h2>
+    <div class="card-grid">
+
+      <a href="ciberseguridad.html" style="text-decoration:none;">
+        <article class="card">
+          <img class="card-img" src="img/imagen4.jpeg" alt="Ciberseguridad" loading="lazy" />
+          <div class="card-body">
+            <h3 data-i18n="card1-title">Ciberseguridad</h3>
+            <p data-i18n="card1-desc">Conferencia sobre la estructura global de la ciberseguridad con casos reales a nivel nacional e internacional.</p>
+          </div>
+        </article>
+      </a>
+
+      <a href="zona-gamer.html" style="text-decoration:none;">
+        <article class="card">
+          <img class="card-img" src="img/imagen10.jpeg" alt="Zona Gamer" loading="lazy" />
+          <div class="card-body">
+            <h3 data-i18n="card2-title">Zona Gamer</h3>
+            <p data-i18n="card2-desc">Una experiencia única compartiendo pasiones: fútbol, Valorant, Fortnite y mucho más con mis compañeros.</p>
+          </div>
+        </article>
+      </a>
+
+      <a href="game-ui.html" style="text-decoration:none;">
+        <article class="card">
+          <img class="card-img" src="img/imagen13.jpeg" alt="Game UI" loading="lazy" />
+          <div class="card-body">
+            <h3 data-i18n="card3-title">Game UI Systems</h3>
+            <p data-i18n="card3-desc">De pantallas bonitas a interfaces que funcionan — la conferencia que más me marcó del evento.</p>
+          </div>
+        </article>
+      </a>
+
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- ABOUT EVENT -->
+  <section>
+    <p class="section-label" data-i18n="event-label">El Evento</p>
+    <h2 class="section-title" data-i18n="event-title">¿Qué es Colombia 5.0?</h2>
+    <p class="section-body" data-i18n="event-body">
+      Colombia 5.0 es el evento tecnológico y empresarial más destacado del país, donde convergen profesionales, estudiantes y líderes de la industria para explorar las últimas tendencias en tecnología, inteligencia artificial, ciberseguridad, diseño de experiencias digitales y mucho más.
+    </p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <span class="footer-logo">CO5.0</span>
+    <p data-i18n="footer-copy">© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software</p>
+  </footer>
+
+  <script src="js/lang.js"></script>
+  <script>initLang('home');</script>
+</body>
+</html>
