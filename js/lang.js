@@ -17,7 +17,7 @@ const T = {
 
       "hero-eyebrow":   "Mi Experiencia · Colombia 5.0",
       "hero-title":     "Bienvenidos a mi<br><em>experiencia</em><br>en Colombia 5.0",
-      "hero-sub":       "Soy David Yate, estudiante de Análisis y Desarrollo de Software en UNIMINUTO. Este sitio documenta mi participación en Colombia 5.0, el evento tecnológico más importante del país.",
+      "hero-sub":       "Soy David Yate, estudiante de Análisis y Desarrollo de Software en SENA. Este sitio documenta mi participación en Colombia 5.0, el evento tecnológico más importante del país.",
 
       "event-label":    "El Evento",
       "event-title":    "¿Qué es Colombia 5.0?",
@@ -53,7 +53,7 @@ const T = {
       "hero-name":      "David<br>Yate",
       "about-tagline":  "La tecnología<br>es mi<br><em>lienzo.</em>",
       "about-quote":    "Asistir a Colombia 5.0 fue una ventana al futuro de la industria tech en Latinoamérica.",
-      "about-role":     "Análisis y Desarrollo de Software · UNIMINUTO",
+      "about-role":     "Análisis y Desarrollo de Software · SENA",
       "about-desc":     "Estudiante apasionado por la tecnología, el diseño y la seguridad digital.",
       "det-name":       "Nombre",
       "det-role":       "Programa",
@@ -77,7 +77,7 @@ const T = {
       "stat4":          "Términos técnicos",
       "hero-cta":       "Explorar conferencias",
       "hero-cta2":      "Ver glosario",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · SENA",
     },
     en: {
       "nav-home":       "Home",
@@ -89,7 +89,7 @@ const T = {
 
       "hero-eyebrow":   "My Experience · Colombia 5.0",
       "hero-title":     "Welcome to my<br><em>experience</em><br>at Colombia 5.0",
-      "hero-sub":       "I'm David Yate, a Software Analysis and Development student at UNIMINUTO. This site documents my participation in Colombia 5.0, the country's most important tech event.",
+      "hero-sub":       "I'm David Yate, a Software Analysis and Development student at SENA. This site documents my participation in Colombia 5.0, the country's most important tech event.",
 
       "event-label":    "The Event",
       "event-title":    "What is Colombia 5.0?",
@@ -125,7 +125,7 @@ const T = {
       "hero-name":      "David<br>Yate",
       "about-tagline":  "Technology is<br>my<br><em>canvas.</em>",
       "about-quote":    "Attending Colombia 5.0 was a window into the future of the tech industry in Latin America.",
-      "about-role":     "Software Analysis and Development · UNIMINUTO",
+      "about-role":     "Software Analysis and Development · SENA",
       "about-desc":     "Student passionate about technology, design and digital security.",
       "det-name":       "Name",
       "det-role":       "Program",
@@ -149,7 +149,7 @@ const T = {
       "stat4":          "Technical terms",
       "hero-cta":       "Explore talks",
       "hero-cta2":      "View glossary",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · SENA",
     }
   },
 
@@ -180,7 +180,7 @@ const T = {
       "cert-label":     "Certificado",
       "cert-title":     "Certificado de Participación",
       "cert-caption":   "Certificado · Conferencia Ciberseguridad · Colombia 5.0",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · SENA",
     },
     en: {
       "nav-home": "Home", "nav-ciber": "Cybersecurity", "nav-gameui": "Game UI",
@@ -207,7 +207,7 @@ const T = {
       "cert-label":     "Certificate",
       "cert-title":     "Participation Certificate",
       "cert-caption":   "Certificate · Cybersecurity Conference · Colombia 5.0",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · SENA",
     }
   },
 
@@ -237,7 +237,7 @@ const T = {
       "keywords-label": "Palabras clave",
       "gallery-label":  "Galería",
       "gallery-title":  "Imágenes de la conferencia",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · SENA",
     },
     en: {
       "nav-home": "Home", "nav-ciber": "Cybersecurity", "nav-gameui": "Game UI",
@@ -263,7 +263,7 @@ const T = {
       "keywords-label": "Keywords",
       "gallery-label":  "Gallery",
       "gallery-title":  "Conference photos",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · SENA",
     }
   },
 
@@ -285,7 +285,7 @@ const T = {
       "keywords-label": "Palabras clave",
       "gallery-label":  "Galería",
       "gallery-title":  "Imágenes de la Zona Gamer",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · SENA",
     },
     en: {
       "nav-home": "Home", "nav-ciber": "Cybersecurity", "nav-gameui": "Game UI",
@@ -303,7 +303,7 @@ const T = {
       "keywords-label": "Keywords",
       "gallery-label":  "Gallery",
       "gallery-title":  "Gamer Zone photos",
-      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · UNIMINUTO",
+      "footer-copy":    "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · SENA",
     }
   },
 
@@ -319,7 +319,7 @@ const T = {
       "tbl-en":       "Inglés / English",
       "tbl-es":       "Español",
       "tbl-def":      "Definición",
-      "footer-copy":  "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · UNIMINUTO",
+      "footer-copy":  "© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · SENA",
     },
     en: {
       "nav-home": "Home", "nav-ciber": "Cybersecurity", "nav-gameui": "Game UI",
@@ -331,7 +331,7 @@ const T = {
       "tbl-en":       "English",
       "tbl-es":       "Español / Spanish",
       "tbl-def":      "Definition",
-      "footer-copy":  "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · UNIMINUTO",
+      "footer-copy":  "© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · SENA",
     }
   },
 
@@ -368,7 +368,7 @@ const T = {
       "conc-label":"Conclusión",
       "conc-title":"Aprendizajes del evento",
       "conc-text": "Colombia 5.0 me confirmó que la tecnología no es neutral. Detrás de cada sistema, algoritmo o interfaz hay decisiones humanas con consecuencias éticas. Como desarrollador en formación, este evento fortaleció mi convicción de que debemos construir con propósito, con empatía y con responsabilidad. El conocimiento técnico es poderoso, pero solo alcanza su máximo potencial cuando se combina con una sólida conciencia ética.",
-      "footer-copy":"© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · UNIMINUTO",
+      "footer-copy":"© 2025 David Yate · Colombia 5.0 · Análisis y Desarrollo de Software · SENA",
     },
     en: {
       "nav-home": "Home", "nav-ciber": "Cybersecurity", "nav-gameui": "Game UI",
@@ -401,7 +401,7 @@ const T = {
       "conc-label":"Conclusion",
       "conc-title":"Event Takeaways",
       "conc-text": "Colombia 5.0 confirmed for me that technology is not neutral. Behind every system, algorithm or interface there are human decisions with ethical consequences. As a developer in training, this event strengthened my conviction that we must build with purpose, with empathy and with responsibility. Technical knowledge is powerful, but it only reaches its full potential when combined with a strong ethical awareness.",
-      "footer-copy":"© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · UNIMINUTO",
+      "footer-copy":"© 2025 David Yate · Colombia 5.0 · Software Analysis and Development · SENA",
     }
   }
 
