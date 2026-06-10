@@ -44,7 +44,7 @@ const T = {
 
       "card4-badge":    "Vocabulario",
       "card4-title":    "Glosario Técnico",
-      "card4-desc":     "30+ términos técnicos en inglés aprendidos durante las conferencias del evento.",
+      "card4-desc":     "30 términos técnicos en inglés aprendidos durante las conferencias del evento.",
 
       "card5-badge":    "Conclusión",
       "card5-title":    "Reflexión Ética",
@@ -117,7 +117,7 @@ const T = {
 
       "card4-badge":    "Vocabulary",
       "card4-title":    "Technical Glossary",
-      "card4-desc":     "30+ technical terms in English learned during the event's conferences.",
+      "card4-desc":     "30 technical terms in English learned during the event's conferences.",
 
       "card5-badge":    "Conclusion",
       "card5-title":    "Ethical Reflection",
@@ -324,7 +324,7 @@ const T = {
       "back": "Volver al inicio",
       "eyebrow":      "Vocabulario técnico · Colombia 5.0",
       "hero-title":   "Glosario<br><em>Técnico</em>",
-      "hero-sub":     "30+ términos técnicos en inglés aprendidos durante las conferencias del evento Colombia 5.0, con traducción al español y definición.",
+      "hero-sub":     "30 términos técnicos en inglés aprendidos durante las conferencias del evento Colombia 5.0, con traducción al español y definición.",
       "tbl-cat":      "Categoría",
       "tbl-en":       "Término (EN)",
       "tbl-es":       "Español",
@@ -339,7 +339,7 @@ const T = {
       "back": "Back to home",
       "eyebrow":      "Technical vocabulary · Colombia 5.0",
       "hero-title":   "Technical<br><em>Glossary</em>",
-      "hero-sub":     "30+ technical terms in English learned during the Colombia 5.0 event conferences, with Spanish translation and definition.",
+      "hero-sub":     "30 technical terms in English learned during the Colombia 5.0 event conferences, with Spanish translation and definition.",
       "tbl-cat":      "Category",
       "tbl-en":       "Term (EN)",
       "tbl-es":       "Español / Spanish",
