@@ -315,7 +315,7 @@ const T = {
     }
   },
 
-  /* ─────────── GLOSSARY ─────────── */
+  /* ────────────── GLOSSARY ────────────── */
   glossary: {
     es: {
       "nav-home": "Inicio", "nav-ciber": "Ciberseguridad", "nav-gameui": "Game UI",
